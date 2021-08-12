@@ -12,9 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **sanatsussus@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -75,7 +73,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=justsanat007">
 </a>
 <a href="https://github.com/justsanat007?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
