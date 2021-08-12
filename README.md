@@ -73,7 +73,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=justsanat007">
+    <img src="https://justsanat007.com/ghpvc/?username=justsanat007">
 </a>
 <a href="https://github.com/justsanat007?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
