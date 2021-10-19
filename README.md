@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://github.com/sanatpanrey/github-readme-activity-graph"><img alt="sanat panrey Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=justsanat007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sanatpanrey/github-readme-activity-graph"><img alt="sanat panrey Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sanatpanrey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -58,7 +58,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=justsanat"> 
 </a>
-<a href="https://github.com/justsanat007?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sanatpanrey?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
