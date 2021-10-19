@@ -60,7 +60,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sanat-panrey-139a891b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sanatsussus"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/justsanat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
