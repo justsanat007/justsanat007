@@ -38,17 +38,7 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<br/>
 
-<p align="center">
-    <a href="https://github.com/justsanat007/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanat panrey's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=justsanat007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-
-<br/>
 <br/>
 
 <a href="https://github.com/justsanat007/github-readme-activity-graph"><img alt="sanat panrey Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=justsanat007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
